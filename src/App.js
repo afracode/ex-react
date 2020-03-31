@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Count from "./examples/hooks/Code";
+import Friends from "./examples/hooks/friends";
 
 function App() {
   return (
     <div className="App">
-     <Count/>
+    <Friends/>
     </div>
   );
 }
